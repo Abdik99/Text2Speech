@@ -1,2 +1,2 @@
 # Text2Speech
-An app that converts to speech 
+An app that converts text to speech 
